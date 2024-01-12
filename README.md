@@ -1,0 +1,3 @@
+"Expense Tracker" is a Python-based financial management application developed using the Tkinter library. This user-friendly tool empowers individuals to efficiently monitor and control their expenses. With a clean and intuitive interface, the application allows users to input monthly income, track spending, and visualize their financial standing.
+
+Key features include the ability to add monthly entries, view detailed expenditure information, and delete items as needed. The program utilizes a Treeview to present a clear overview of monthly finances, including income, spending, and the remaining balance.
